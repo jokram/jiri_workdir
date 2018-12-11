@@ -1,0 +1,11 @@
+<manifest>
+  <imports>
+    <import manifest="meta.xml" name="jiri_meta" remote="https://github.com/jokram/jiri_meta.git"/>
+  </imports>
+  <projects>
+      
+    <project name="jiri_meta" path="pkg/meta" remote="https://github.com/jokram/jiri_meta.git" />
+    
+  </projects>
+
+</manifest>
