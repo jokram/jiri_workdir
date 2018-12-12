@@ -1,6 +1,6 @@
 <manifest>
   <imports>
-    <import manifest="meta.xml" name="jiri_meta" remote="https://github.com/jokram/jiri_meta.git"/>
+    <import manifest="meta.xml" name="jiri_meta" root="pkg/meta" remote="https://github.com/jokram/jiri_meta.git"/>
   </imports>
   <projects>
       
