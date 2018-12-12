@@ -2,5 +2,5 @@
 ## Instructions
 - Clone this repository
 - Install JIRI by putting the exectuable (see https://github.com/jokram/jiri/releases) in a location known by PATH
-- Open a Git Bash **as Administrator** (JIRI uses symbolic links) in the above cloned working directory
+- Open a Git Bash in the above cloned working directory
 - Run `jiri update -vv` to see it in action
