@@ -1,6 +1,6 @@
 /.jiri_root/update_history
 # Ignore all packages except the "own" package
 
-/pkg/
-
+!/pkg/
+/pkg/*
 !/pkg/own/
