@@ -1,0 +1,2 @@
+- This directory is used for the Windows TEMP and TMP environment variables
+- This is currently necessary, because JIRI is not able to process the commands if the tmp directory is on another mounted drive than the working directory
